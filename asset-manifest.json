@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/firebasechat/static/css/main.59f9aa21.chunk.css",
-    "main.js": "/firebasechat/static/js/main.17b3fc74.chunk.js",
-    "main.js.map": "/firebasechat/static/js/main.17b3fc74.chunk.js.map",
+    "main.js": "/firebasechat/static/js/main.caab5218.chunk.js",
+    "main.js.map": "/firebasechat/static/js/main.caab5218.chunk.js.map",
     "runtime-main.js": "/firebasechat/static/js/runtime-main.72227175.js",
     "runtime-main.js.map": "/firebasechat/static/js/runtime-main.72227175.js.map",
     "static/js/2.c47747d2.chunk.js": "/firebasechat/static/js/2.c47747d2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.72227175.js",
     "static/js/2.c47747d2.chunk.js",
     "static/css/main.59f9aa21.chunk.css",
-    "static/js/main.17b3fc74.chunk.js"
+    "static/js/main.caab5218.chunk.js"
   ]
 }
