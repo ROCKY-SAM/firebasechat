@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/firebasechat/static/css/main.59f9aa21.chunk.css",
-    "main.js": "/firebasechat/static/js/main.caab5218.chunk.js",
-    "main.js.map": "/firebasechat/static/js/main.caab5218.chunk.js.map",
+    "main.css": "/firebasechat/static/css/main.12e89d7c.chunk.css",
+    "main.js": "/firebasechat/static/js/main.98d8414d.chunk.js",
+    "main.js.map": "/firebasechat/static/js/main.98d8414d.chunk.js.map",
     "runtime-main.js": "/firebasechat/static/js/runtime-main.72227175.js",
     "runtime-main.js.map": "/firebasechat/static/js/runtime-main.72227175.js.map",
     "static/js/2.c47747d2.chunk.js": "/firebasechat/static/js/2.c47747d2.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a15e4e5c.chunk.js": "/firebasechat/static/js/3.a15e4e5c.chunk.js",
     "static/js/3.a15e4e5c.chunk.js.map": "/firebasechat/static/js/3.a15e4e5c.chunk.js.map",
     "index.html": "/firebasechat/index.html",
-    "static/css/main.59f9aa21.chunk.css.map": "/firebasechat/static/css/main.59f9aa21.chunk.css.map",
+    "static/css/main.12e89d7c.chunk.css.map": "/firebasechat/static/css/main.12e89d7c.chunk.css.map",
     "static/js/2.c47747d2.chunk.js.LICENSE.txt": "/firebasechat/static/js/2.c47747d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72227175.js",
     "static/js/2.c47747d2.chunk.js",
-    "static/css/main.59f9aa21.chunk.css",
-    "static/js/main.caab5218.chunk.js"
+    "static/css/main.12e89d7c.chunk.css",
+    "static/js/main.98d8414d.chunk.js"
   ]
 }
